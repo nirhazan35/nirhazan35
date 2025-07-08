@@ -3,7 +3,7 @@
 🚀 I'm looking for my first role as a Backend or Full-Stack Developer.<br>
 🧠 Passionate about building real-time systems, AI-powered applications, and automation tools.<br>
 📦 Experienced with tools like Docker, MongoDB, GitHub Actions, and CI/CD pipelines.<br>
-📚 Always learning — currently diving deeper into AWS and advanced JavaScript.<br>
+📚 Always learning — currently diving deeper into AWS and advanced TypeScript.<br>
 
 
 ## 🌐 Socials:
