@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Completed my B.Sc. in Software Engineering.<br>
+🎓 B.Sc. in Software Engineering.<br>
 🚀 I'm looking for my next role as a Backend or Full-Stack Developer.<br>
 🧠 Passionate about building real-time systems, AI-powered applications, and automation tools.<br>
 📦 Experienced with tools like Docker, MongoDB, GitHub Actions, and CI/CD pipelines.<br>
